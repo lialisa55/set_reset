@@ -1,0 +1,6 @@
+|set_reset
+R <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+SET => inst.IN1
+RESET => inst1.IN1
+
+
